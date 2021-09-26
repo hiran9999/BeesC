@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bees Courier</string>
+    <string name="view_package">Add Package Details</string>
+    <string name="view_name">Customer Name</string>
+    <string name="view_Address">Customer Address</string>
+    <string name="view_Pno">Phone No</string>
+    <string name="view_weight">weight (Kg)</string>
+    <string name="view_PD">Package Dimensions (cm)</string>
+    <string name="L_" />
+    <string name="L_length">Length(cm)</string>
+    <string name="W_width">Width(cm)</string>
+    <string name="H_height">Height(cm)</string>
+    <string name="CO_btn">CONTINUE</string>
+    <string name="ii2">Cash On Delivery</string>
+    <string name="ii">"Courier Charges get by Customer "</string>
+    <string name="ii3">Courier fees will pay by me</string>
+    <string name="rd_1">Cash on Delivery</string>
+    <string name="rd_2">Courier fees get by Customer</string>
+    <string name="rd_3">Courier fees will pay by me</string>
+    <string name="pick_up">PickUp</string>
+    <string name="add_date">Add Date</string>
+    <string name="pick_add">Pickup Address</string>
+    <string name="coll">Date</string>
+    <string name="coll2">Order No</string>
+    <string name="coll3">Address</string>
+    <string name="row1">rD</string>
+    <string name="row2">rid</string>
+    <string name="row3">rAd</string>
+    <string name="btn_pick">EDIT</string>
+    <string name="btn_psub">SUBMIT</string>
+    <string name="pick_sub">Pick Sub</string>
+    <string name="ready_to_shipped">READY TO SHIPPED</string>
+    <string name="r_date">01/08/2021</string>
+
+</resources>
